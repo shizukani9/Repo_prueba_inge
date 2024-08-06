@@ -1,0 +1,12 @@
+{
+  "browser": {
+    "name": "edge",
+    "headless": false,
+    "timeout": 10000,
+    "maxWindow": false,
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  }
+}

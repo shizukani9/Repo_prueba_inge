@@ -1,0 +1,20 @@
+{
+  "name": "puppet-backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^10.6.0",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "chai": "^4.4.1",
+    "log4js": "^6.9.1",
+    "puppeteer-core": "^22.6.3",
+    "winston": "^3.13.0"
+  }
+}
